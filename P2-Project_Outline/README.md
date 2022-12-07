@@ -34,7 +34,7 @@ Everything! But the technical answer is:
 -How to enable Location Services using Google or Apple
 -Utilize layered filtering to "rank" options for cafes. 
 -Utilize a time-function feature to see when a cafe is closed or open.
--
+-More efficient CSS and HTML usage for a complex, more appealing app.
 
 ### Project Tracker
 
