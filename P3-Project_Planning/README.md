@@ -13,13 +13,17 @@ Adding a link to keep track: https://www.figma.com/file/MXi5HRrsQVkye2NgkYCvLk/U
 
 
 
-### Project Tracker
 
+### Project Tracker
 Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+
+Trello Link: 
+https://trello.com/b/Fz11b3UD/find-my-coffee
 
 
 ### Project Repo Link
 
-https://github.com/littlejohn-c 
+Group Repo Link: 
+https://github.com/littlejohn-c/Find_My_Coffee 
 
 Include a link to your project on GitHub.
