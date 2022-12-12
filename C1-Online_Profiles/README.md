@@ -8,7 +8,7 @@ For this assignment you will need to upload your resume and provide links to you
  
 ### GitHub
 Provide a link to your GitHub account here.
-https://github.com/carl-baby
+https://github.com/littlejohn-c 
  
 ### LinkedIn
 Provide a link to your LinkedIn account here.
