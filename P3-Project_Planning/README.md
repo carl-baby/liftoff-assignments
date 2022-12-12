@@ -9,7 +9,12 @@ For this assignment, you'll create some initial plans for your project.
 ### Wireframes
 
 Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
-Adding a link to keep track: https://www.figma.com/file/MXi5HRrsQVkye2NgkYCvLk/Untitled?node-id=0%3A1&t=XqJSbzWZFvad39b9-0 
+Adding a link to keep track: 
+https://www.figma.com/file/MXi5HRrsQVkye2NgkYCvLk/Untitled?node-id=0%3A1&t=XqJSbzWZFvad39b9-0 
+
+[x] Image 1 of the Locator page
+[x] Image 2 of the Map and Menu locator that follows Image 1 after input
+[x] Image 3 
 
 
 
