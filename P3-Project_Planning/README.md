@@ -14,7 +14,7 @@ https://www.figma.com/file/MXi5HRrsQVkye2NgkYCvLk/Untitled?node-id=0%3A1&t=XqJSb
 
 [x] Image 1 of the Locator page
 [x] Image 2 of the Map and Menu locator that follows Image 1 after input
-[x] Image 3 
+[x] Image 3 of the Cafe's profile on the app with information 
 
 
 
